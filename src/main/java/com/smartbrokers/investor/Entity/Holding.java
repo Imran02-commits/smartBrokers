@@ -3,6 +3,7 @@ package com.smartbrokers.investor.Entity;
 import jakarta.persistence.*;
 import java.math.BigDecimal;
 
+
 @Entity
 public class Holding {
     @Id
